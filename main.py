@@ -1,4 +1,6 @@
-# Xil2WOP: Converter Xilog3->WoodWOP door Michel Storms (stormychel@me.com)
+# Created by Michel Storms - michelstorms@icloud.com
+
+# Xil2WOP: Converter Xilog3->WoodWOP door Michel Storms
 
 # Versie 1.27.0 (Major, Minor, Patch)
 
